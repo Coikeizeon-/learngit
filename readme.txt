@@ -7,4 +7,4 @@ Git is free software distributed under the GPL.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
-123123
+Creating a new branch is quick AND simple.
